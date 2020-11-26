@@ -1,2 +1,6 @@
 # web_django_hw
-homework for webbb
+Homework for webbb
+
+Tutorial:
+https://docs.djangoproject.com/en/3.1/
+http://www.python3.vip
